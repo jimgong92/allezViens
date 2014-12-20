@@ -67,9 +67,9 @@ def parseTableData( data ):
     res.append(record[0]['id'].encode("utf-8"))
   return res
 
-origin = [10,12]
-destination = [43,45]
-createDriver([10,12], [43,45], "Jon")
-createPassenger(origin, destination, "Adam")
-createPassenger(origin, destination, "Tony")
+# origin = [10,12]
+# destination = [43,45]
+# createDriver([10,12], [43,45], "Jon")
+# createPassenger(origin, destination, "Adam")
+# createPassenger(origin, destination, "Tony")
 # print(findPassengers(origin, destination))
