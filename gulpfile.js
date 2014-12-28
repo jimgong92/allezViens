@@ -55,7 +55,11 @@ gulp.task('karma', function (done) {
 });
 
 gulp.task('default', function() {
+<<<<<<< HEAD
     runSequence('core', 'sass','bower','watch', 'karma', function () {
+=======
+    runSequence('sass','bower','watch', 'karma', function () {
+>>>>>>> b990142... adds front end tests #16
       console.log('gulp success!')
     });
 });
