@@ -94,7 +94,6 @@ html {
     border-radius: 50%;
     border: 2px solid rgba(136, 207, 48, 0.75);
     background: none; }
-<<<<<<< HEAD
 
 .passenger h1 {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -140,5 +139,3 @@ html {
   .passenger-role .sidebar {
     width: 100px;
     font-size: 1.2rem; }
-=======
->>>>>>> 865385e... creates POST request for passenger/driver route closes #2
